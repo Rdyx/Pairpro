@@ -1,14 +1,14 @@
 .titreh1 {
-	height: 180px;
+
 	font-size : 30px;
-	width: 68.5%;
-	font-style: bold ;
 	font-family: 'Roboto', sans-serif;
-	float : left;
-}
-.imgh1 {
+	display: flex;
+	justify-content: space-between;
 	margin-bottom: 20px;
+	align-items: center;
+	margin-left: 20px;
 }
+
 
 body {
 background-color : grey;
@@ -17,8 +17,10 @@ background-color : grey;
 
 .divmainimg {
 	width: 50%;
-	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
 }
+
 .divmain {
 	text-align: center;
 }
