@@ -1,20 +1,30 @@
 .titreh1 {
+	height: 180px;
 	font-size : 30px;
-	color : red;
+	width: 68.5%;
 	font-style: bold ;
 	font-family: 'Roboto', sans-serif;
 	float : left;
 }
 .imgh1 {
-	
-	float : right;
+	margin-bottom: 20px;
 }
 
 body {
 background-color : grey;
 
 }
+
+.divmainimg {
+	width: 50%;
+	text-align: center;
+}
 .divmain {
-	float : center ;
-	
+	text-align: center;
+}
+
+.divmaindate {
+	color: red;
+	font-style: italic;
+	font-size: 12px;
 }
