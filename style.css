@@ -1,0 +1,20 @@
+.titreh1 {
+	font-size : 30px;
+	color : red;
+	font-style: bold ;
+	font-family: 'Roboto', sans-serif;
+	float : left;
+}
+.imgh1 {
+	
+	float : right;
+}
+
+body {
+background-color : grey;
+
+}
+.divmain {
+	float : center ;
+	
+}
